@@ -5,3 +5,5 @@
     * Data Mining:
         - Supervised Learning
         - Unsupervised Learning
+    * Deep Learning:
+        - Macro facial expressions recognition using keras
