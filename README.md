@@ -2,8 +2,10 @@
 
 - This repository contains samples and tests of various examples in data science sections
 - You will find:
-    * Data Mining:
-        - Supervised Learning
-        - Unsupervised Learning
+    * Machine Learning:
+        - Supervised learning
+        - Unsupervised learning
+        - Sentiment analysis
+        - Speech emotion recognition
     * Deep Learning:
         - Macro facial expressions recognition using keras
