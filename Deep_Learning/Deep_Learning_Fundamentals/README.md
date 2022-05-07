@@ -1,4 +1,4 @@
-# Macro Facial Expressions detection using keras
+# Nvidia Deep Learning Fundametals
 - This is the result work of Nvidia Fundamental of Deep Learning Course where I learned the basics of deep learning.
 - To run this project, make sure to setup a tensorflow environment with Anaconda and download CUDA-toolkit and cudnn.
 - I used Tensorflow Keras to:
