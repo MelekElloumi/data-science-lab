@@ -9,3 +9,4 @@
         - Speech emotion recognition
     * Deep Learning:
         - Macro facial expressions recognition using keras
+        - Fundamentals of Deep Learning (CNN, NLP, Transfert learning...)
