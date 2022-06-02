@@ -2,8 +2,13 @@ import cv2
 from model import FacialExpressionModel
 import numpy as np
 
+def to_rgb(image_path):
+  numpydata = np.asarray(image_path)
+  img = np.expand_dims(numpydata, axis=0)
+  return img
+
 facec = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
-model = FacialExpressionModel("model.json", "model_weights.h5")
+model = FacialExpressionModel("model.json", "model_weights_final_final_finaaaallllll_wlh_finaal.h5")
 font = cv2.FONT_HERSHEY_SIMPLEX
 
 class VideoCamera(object):
@@ -18,6 +23,7 @@ class VideoCamera(object):
     def get_frame(self):
         _, fr = self.video.read()
         gray_fr = cv2.cvtColor(fr, cv2.COLOR_BGR2GRAY)
+        #rgb_fr = cv2.cvtColor(fr, cv2.COLOR_BGR2RGB)
         faces = facec.detectMultiScale(gray_fr, 1.3, 5)
 
         for (x, y, w, h) in faces:
