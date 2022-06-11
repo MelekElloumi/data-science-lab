@@ -12,3 +12,5 @@
         - Fundamentals of Deep Learning (CNN, NLP, Transfert learning...)
     * Data Engineering:
         - Facebook connector for scraping images
+    * Reinforcement Learning:
+        - DinoRun Game
