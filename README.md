@@ -10,7 +10,8 @@
         - Unsupervised learning
         - Sentiment analysis
         - Speech emotion recognition
-    * Data Engineering:
-        - Facebook connector for scraping images
     * Reinforcement Learning:
         - DinoRun Game
+    * Data Engineering:
+        - Facebook connector for scraping images
+    
