@@ -1,1 +1,1 @@
-# Reinforcement Learning Model to beat DinoRun
+# Reinforcement Learning Model to beat Google's DinoRun
