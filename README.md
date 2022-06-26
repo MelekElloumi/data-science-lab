@@ -10,8 +10,10 @@
         - Unsupervised learning
         - Sentiment analysis
         - Speech emotion recognition
-    * Reinforcement Learning:
-        - DinoRun Game
+    * Acceleration:
+        - Accelerating end-to-end data science workflows (CuDF,CuML,CuPY...)
     * Data Engineering:
         - Facebook connector for scraping images
+    * Reinforcement Learning:
+      - DinoRun Game
     
