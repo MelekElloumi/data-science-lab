@@ -12,8 +12,7 @@
         - Speech emotion recognition
     * Acceleration:
         - Accelerating end-to-end data science workflows (CuDF,CuML,CuPY...)
+        - Fundamentals of accelerated computing with CUDA_Python
     * Data Engineering:
         - Facebook connector for scraping images
-    * Reinforcement Learning:
-      - DinoRun Game
     
