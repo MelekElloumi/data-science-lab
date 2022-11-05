@@ -5,6 +5,7 @@
     * Deep Learning:
         - Macro facial expressions recognition using keras
         - Fundamentals of Deep Learning (CNN, NLP, Transfert learning...)
+        - Modeling Time Series Data with Recurrent Neural Networks in Keras
     * Machine Learning:
         - Supervised learning
         - Unsupervised learning
