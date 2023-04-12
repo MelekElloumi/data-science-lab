@@ -1,0 +1,8 @@
+{
+  "video_path": "C:\\Users\\melek\\Desktop\\Videos",
+  "image_path": "C:\\Users\\melek\\Desktop\\Images",
+  "screenshot_rate": 1500,
+  "resolution": "1080p",
+  "only_video": true,
+  "only_audio": false
+}

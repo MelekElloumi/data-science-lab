@@ -18,4 +18,5 @@
         - Fundamentals of accelerated computing with CUDA_Python
     * Data Engineering:
         - Facebook connector for scraping images
+        - Youtube Image Extractor
     
